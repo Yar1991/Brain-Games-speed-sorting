@@ -34,9 +34,9 @@ export default GameBox;
 
 const Wrapper = styled(motion.div)`
   position: relative;
-  top: 15%;
-  width: 800px;
-  height: 600px;
+  top: 5rem;
+  width: min(95%, 800px);
+  height: min(90%, 600px);
   margin: auto;
   background: #f8f8f8;
   box-shadow: 0 0 10px hsl(0 0% 0% / 0.4);
