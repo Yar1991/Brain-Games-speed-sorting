@@ -1,4 +1,4 @@
-# Project "Speed-Sorting"
+# Project "Brain Games: Speed-Sorting"
 
 Speed-sorting game to enhance your reaction and other cognitive funcitons. 
 Made only for desktop.
